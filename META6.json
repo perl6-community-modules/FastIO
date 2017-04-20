@@ -1,0 +1,17 @@
+{
+    "perl"         : "6.c",
+    "name"         : "FastIO",
+    "version"      : "1.001001",
+    "description"  : "Faster version of Perl 6 core IO routines",
+    "tags"         : [ "io", "files", "filesystem" ],
+    "depends"      : [ ],
+    "test-depends" : [
+        "Test",
+        "Test::META"
+    ],
+    "provides"     : {
+        "IO::Path::Fast" : "lib/IO/Path/Fast.pm6"
+    },
+    "authors"       : ["perl"],
+    "support"       : {"source"   : "git://github.com/perl6/FastIO.git"}
+}
