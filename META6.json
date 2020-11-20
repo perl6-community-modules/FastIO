@@ -2,7 +2,7 @@
     "perl"         : "6.c",
     "name"         : "FastIO",
     "version"      : "1.001001",
-    "description"  : "Faster version of Perl 6 core IO routines",
+    "description"  : "Faster version of Raku core IO routines",
     "tags"         : [ "io", "files", "filesystem" ],
     "depends"      : [ ],
     "test-depends" : [
@@ -13,5 +13,5 @@
         "IO::Path::Fast" : "lib/IO/Path/Fast.pm6"
     },
     "authors"       : ["perl"],
-    "support"       : {"source"   : "git://github.com/perl6/FastIO.git"}
+    "support"       : {"source"   : "git://github.com/raku-community-modules/FastIO.git"}
 }
