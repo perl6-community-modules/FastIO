@@ -6,7 +6,7 @@ FastIO
 
 # SYNOPSIS
 
-```perl6
+```raku
 ```
 
 # DESCRIPTION
@@ -17,12 +17,12 @@ FastIO
 #### REPOSITORY
 
 Fork this module on GitHub:
-https://github.com/perl6-community-modules/FastIO
+https://github.com/raku-community-modules/FastIO
 
 #### BUGS
 
 To report bugs or request features, please use
-https://github.com/perl6-community-modules/FastIO/Issues
+https://github.com/raku-community-modules/FastIO/Issues
 
 #### LICENSE
 
